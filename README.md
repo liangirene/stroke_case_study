@@ -28,7 +28,6 @@ Gender – categorical variable (Male, Female, Other)
 
 **Methodology**
 
-- Design and implementation of a predictive model using Python or R, focused on stroke risk prediction.
+- Design and implementation of a predictive model using Python, focused on stroke risk prediction.
 - Testing and evaluation of different machine learning algorithms, followed by a thorough comparison and selection of the most suitable model based on performance metrics.
 - Preparation of a comprehensive presentation to summarize the approach, findings, and recommendations, as well as to outline potential future enhancements to the model.
-
