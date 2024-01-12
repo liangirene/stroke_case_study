@@ -24,7 +24,7 @@ Gender – categorical variable (Male, Female, Other)
 - Avg_Glucose: patient’s average glucose level for the past 3 months
 - BMI: patient’s current BMI score
 - Smoking_Status: categorical variable that indicates patient smoking habits
-- Stroke – binominal target variable (1 – patient after stroke, 0 – patient never had stroke)
+- Stroke: binominal target variable (1 – patient after stroke, 0 – patient never had stroke)
 
 **Methodology**
 
